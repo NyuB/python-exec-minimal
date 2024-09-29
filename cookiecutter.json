@@ -1,0 +1,5 @@
+{
+    "name": "main",
+    "main_name": "{{ cookiecutter.name.replace(' ', '_').replace('-', '_') }}",
+    "python3" : "/bin/python3"
+}
