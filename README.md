@@ -5,7 +5,7 @@
 **NB**: The [cookiecutter documentation](https://cookiecutter.readthedocs.io/en/stable/usage.html) will always be the most up-to-date regarding cookiecutter usage. The following instructions are just a quickstart helper.
 
 ```console
-$ cookiecutter gh:https://github.com/NyuB/python-exec-minimal
+$ cookiecutter gh:NyuB/python-exec-minimal
 [1/4] name (main): my-awesome-tool
 [2/4] main_name: (my_awesome_tool)
 [3/4] description: (An awesome tool)
